@@ -1,10 +1,12 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Services
   url: "/getting-started/"
   side: left
+
+-title: "What is CBT"
 
 - title: "Templates"
   url: "/design/"
