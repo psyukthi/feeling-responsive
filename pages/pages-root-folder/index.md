@@ -45,5 +45,5 @@ homepage: true
 ---
 
   <div class="flex-video widescreen" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=q6aAQgXauQw" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/q6aAQgXauQw?si=znPWdVThnSAiv69e" frameborder="0" allowfullscreen></iframe>
   </div>
