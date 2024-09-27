@@ -16,8 +16,7 @@ widget2:
   title: "Why we need more healthier workplaces?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: logo.jpg
-  text: 'Are you looking to boost your team's productivity and morale? Do you want to empower your employees with the tools they need to thrive, both personally and professionally? Interested in transforming your corporate culture to reduce stress..? enhance mental health, and foster a supportive work environment? Ready to invest in your team's wellbeing today for a more resilient..?  motivated, and productive workforce tomorrow? Want to unlock the full potential of your employees with expert-led corporate wellbeing training?
-The answer is Psyukthi Corporate Wellbeing. '
+  text: 'Are you looking to boost your team's productivity and morale? Do you want to empower your employees with the tools they need to thrive, both personally and professionally? Interested in transforming your corporate culture to reduce stress, enhance mental health, and foster a supportive work environment? Ready to invest in your team's wellbeing today for a more resilient, motivated, and productive workforce tomorrow? Want to unlock the full potential of your employees with expert-led corporate wellbeing training? The answer is Psyukthi Corporate Wellbeing.'
 
 widget3:
   title: "Counselling Sessions"
