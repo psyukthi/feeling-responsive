@@ -15,13 +15,10 @@ widget1:
 widget2:
   title: "Why we need more healthier workplaces?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '
-1. "Boost your team's productivity and morale with our comprehensive corporate wellbeing training – because a healthy workplace is a happy workplace!"
-2. "Empower your employees with the tools they need to thrive, both personally and professionally, through our tailored corporate wellbeing programs."
-3. "Transform your corporate culture with our wellbeing training, designed to reduce stress, enhance mental health, and foster a supportive work environment."
-4. "Invest in your team's wellbeing today for a more resilient, motivated, and productive workforce tomorrow!"
-5. "Unlock the full potential of your employees with our expert-led corporate wellbeing training – where mental health meets peak performance." 
-Do any of these resonate with what you're looking for? '
+  text: 'Are you looking to boost your team's productivity and morale? Do you want to empower your employees with the tools they need to thrive, both personally and professionally? Interested in transforming your corporate culture to reduce stress, enhance mental health, and foster a supportive work environment? Ready to invest in your team's wellbeing today for a more resilient, motivated, and productive workforce tomorrow? Want to unlock the full potential of your employees with expert-led corporate wellbeing training?
+
+The answer is Psyukthi Corporate Wellbeing. '
+
 widget3:
   title: "Counselling Sessions"
   url: 'https://github.com/Phlow/feeling-responsive/services'
