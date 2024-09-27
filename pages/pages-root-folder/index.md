@@ -21,7 +21,7 @@ widget3:
   title: "Counselling Sessions"
   url: 'https://github.com/Phlow/feeling-responsive/services'
   image: widget-github-303x182.jpg
-  text: 'At <em>Psyukthi</em>, We deal with many consequences of the modern turmoil, A fast paced life and compulsive life choices that put each person in unique hur Make it your own and start building.'
+  text: 'At <em>Psyukthi</em>, We help people with personalized Cognitive behaviour therapy sessions , at our office or virtually.'
 #
 # Use the call for action to show a button on the frontpage
 #
