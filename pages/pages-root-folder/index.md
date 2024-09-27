@@ -12,11 +12,6 @@ widget1:
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: psyblog.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-widget2:
-  title: "Why we need more healthier workplaces?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  image: logo.jpg
-  text: 'Are you looking to boost your team's productivity and morale? Do you want to empower your employees with the tools they need to thrive, both personally and professionally? Interested in transforming your corporate culture to reduce stress, enhance mental health, and foster a supportive work environment? Ready to invest in your team's wellbeing today for a more resilient, motivated, and productive workforce tomorrow? Want to unlock the full potential of your employees with expert-led corporate wellbeing training? The answer is Psyukthi Corporate Wellbeing.'
 widget3:
   title: "Counselling Sessions"
   url: 'https://github.com/Phlow/feeling-responsive/services'
