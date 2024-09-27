@@ -43,7 +43,7 @@ permalink: /index.html
 #
 homepage: true
 ---
-{% include _display_services.html %}
+
   <div class="flex-video widescreen" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/q6aAQgXauQw?si=znPWdVThnSAiv69e" frameborder="0" allowfullscreen></iframe>
   </div>
