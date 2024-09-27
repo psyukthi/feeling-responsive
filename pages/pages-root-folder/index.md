@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Counselling Sessions"
   url: 'https://github.com/Phlow/feeling-responsive/services'
-  image: widget-github-303x182.jpg
+  image: psycoun.jpg
   text: 'At <em>Psyukthi</em>, We help people with personalized Cognitive behaviour therapy sessions , at our office or virtually.'
 #
 # Use the call for action to show a button on the frontpage
