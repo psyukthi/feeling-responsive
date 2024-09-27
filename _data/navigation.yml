@@ -1,12 +1,12 @@
-- title: "Home"
+- title: Home
   url: "/"
   side: left
 
-- title: "Services"
+- title: What is CBT..?
   url: "/getting-started/"
   side: left
 
--title: "What is CBT"
+
 
 - title: "Templates"
   url: "/design/"
