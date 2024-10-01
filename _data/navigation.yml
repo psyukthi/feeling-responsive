@@ -2,9 +2,12 @@
   url: "/"
   side: left
 
-- title: What is CBT..?
+- title: Getting started
   url: "/getting-started/"
   side: left
+
+- title: Cognitive Behaviour Therapy
+  url: "https://psyukthi.github.io/feeling-responsive/therapy/mental%20health/cbt/the-power-of-cbt/"
 
 
 
