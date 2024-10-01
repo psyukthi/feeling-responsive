@@ -6,4 +6,11 @@ subheadline         : "Contact Form"
 teaser              : "Get in touch with me? Use the contact form."
 permalink           : "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+Psyukthi is located in Hyderabad, But we offer virtual CBT therapies.
+<p>
+  Please contact on following channels for booking an appointment 
+  <list>
+    <li>whatsapp: </li>
+    <li>google calnder/form </li>
+  </list>
+</p>
