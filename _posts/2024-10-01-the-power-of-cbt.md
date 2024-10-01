@@ -7,8 +7,8 @@ title: "The Power of CBT: Solving Everyday Psychological Issues"
 date: 2024-10-01
 categories: [therapy, mental health, CBT]
 image:
-  title:cbt.jpg
-  caption:Cognitive Behaviour therapy
+  title: cbt.jpg
+  caption: Cognitive Behaviour therapy
 ---
 
 !CBT Therapy
