@@ -16,7 +16,7 @@ Cognitive Behavioral Therapy (CBT) is a highly effective form of therapy that he
 
 ### What is CBT?
 
-CBT is a type of talking therapy that focuses on changing negative thought patterns and behaviors. It teaches individuals to challenge and reframe their thoughts, leading to healthier responses to everyday situations[^1^][5].
+CBT is a type of talking therapy that focuses on changing negative thought patterns and behaviors. It teaches individuals to challenge and reframe their thoughts, leading to healthier responses to everyday situations.
 
 ### Benefits of CBT
 
