@@ -11,9 +11,6 @@ image:
   caption: Cognitive Behaviour therapy
 ---
 
-!CBT Therapy
-
-## The Power of CBT: Solving Everyday Psychological Issues
 
 Cognitive Behavioral Therapy (CBT) is a highly effective form of therapy that helps individuals manage and overcome a variety of psychological issues. From anxiety and depression to stress and insomnia, CBT provides practical solutions that can significantly improve one's quality of life.
 
@@ -25,10 +22,10 @@ CBT is a type of talking therapy that focuses on changing negative thought patte
 
 CBT can be beneficial for a wide range of issues, including:
 
-- **Anxiety and Depression**: CBT helps in identifying and challenging negative thoughts that contribute to anxiety and depression[^2^][6].
-- **Stress Management**: Techniques learned in CBT can help manage stress more effectively[^3^][7].
-- **Insomnia**: CBT for insomnia (CBT-I) is a structured program that helps individuals overcome sleep problems[^4^][8].
-- **Chronic Pain**: CBT can help manage the psychological aspects of chronic pain[^2^][6].
+- **Anxiety and Depression**: CBT helps in identifying and challenging negative thoughts that contribute to anxiety and depression.
+- **Stress Management**: Techniques learned in CBT can help manage stress more effectively.
+- **Insomnia**: CBT for insomnia (CBT-I) is a structured program that helps individuals overcome sleep problems.
+- **Chronic Pain**: CBT can help manage the psychological aspects of chronic pain.
 
 ### How to Approach Psyukthi for Help
 
@@ -47,9 +44,10 @@ For more information on CBT and its benefits, check out these resources:
   <p>Need help? Don't hesitate to <a href="https://psyukthi.github.io/feeling-responsive/contact/">contact us</a> at Psyukthi for professional support and guidance.</p>
 </div>
 
-!Therapy Session
+
 
 ---
+
 
 We hope this post helps you understand the power of CBT and how it can be a valuable tool in managing everyday psychological issues. Remember, seeking help is a sign of strength, and at Psyukthi, we are here to support you.
 
