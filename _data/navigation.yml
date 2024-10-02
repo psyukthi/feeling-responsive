@@ -2,12 +2,9 @@
   url: "/"
   side: left
 
-- title: Getting started
-  url: "/getting-started/"
-  side: left
 
 - title: Cognitive Behaviour Therapy
-  url: "/design/the-power-of-cbt"
+  url: "/getting-started"
   side: left
 
 
