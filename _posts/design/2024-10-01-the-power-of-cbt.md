@@ -9,6 +9,7 @@ categories: [therapy, mental health, CBT]
 image:
   title: cbt.jpg
   caption: Cognitive Behaviour therapy
+permalink: "/cbt"
 ---
 
 
