@@ -19,7 +19,7 @@ widget2:
   video: 
 widget3:
   title: "Counselling Sessions"
-  url: 'https://github.com/Phlow/feeling-responsive/services'
+  url: 'https://psyukthi.github.io/feeling-responsive/services'
   image: psycoun.jpg
   text: 'At <em>Psyukthi</em>, We help people with personalized Cognitive behaviour therapy sessions , at our office or virtually.'
 #
