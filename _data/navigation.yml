@@ -7,6 +7,10 @@
   url: "/cbt"
   side: left
 
+-title: Services
+ url: "/services"
+ side: left
+
 
 
 - title: "Templates"
