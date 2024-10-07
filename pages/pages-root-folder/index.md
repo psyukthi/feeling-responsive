@@ -15,7 +15,9 @@ widget1:
 widget2:
   title: "Corporate training"
   url: 'http://psyukthi.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  image: psycorporate.jpg
+  text: 'Corporate wellbeing is essential for fostering a productive and positive work environment. By prioritizing employee health and wellness, companies can reduce absenteeism, enhance job satisfaction, and boost overall productivity. Investing in corporate wellbeing initiatives, such as stress management programs and mental health support, not only improves employee morale but also helps attract and retain top talent. Ultimately, a focus on wellbeing leads to a more engaged and resilient workforce.
+'
   video: 
 widget3:
   title: "Counselling Sessions"
