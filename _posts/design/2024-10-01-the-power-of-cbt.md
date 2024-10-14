@@ -32,7 +32,7 @@ CBT can be beneficial for a wide range of issues, including:
 
 At Psyukthi, we specialize in providing CBT to help you navigate through life's challenges. Our team of experienced therapists is here to support you every step of the way.
 
-**Contact Us**: [Get in touch with us](https://psyukthi.github.io/feeling-responsive/contact/) to schedule an appointment or learn more about our services.
+**Contact Us**: [Get in touch with us](https://psyukthi.in/contact/) to schedule an appointment or learn more about our services.
 
 ### Explore More
 
@@ -42,7 +42,7 @@ For more information on CBT and its benefits, check out these resources:
 - [HelpGuide on CBT](https://www.helpguide.org/mental-health/treatment/cognitive-behavioral-therapy-cbt)
 
 <div class="highlight-box">
-  <p>Need help? Don't hesitate to <a href="https://psyukthi.github.io/feeling-responsive/contact/">contact us</a> at Psyukthi for professional support and guidance.</p>
+  <p>Need help? Don't hesitate to <a href="https://psyukthi.in/contact/">contact us</a> at Psyukthi for professional support and guidance.</p>
 </div>
 
 
