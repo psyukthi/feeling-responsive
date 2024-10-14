@@ -8,8 +8,13 @@
   side: left
 
 - title: Services
-  url: "/services"
+  url: "/services/"
   side: left
+  dropdown:
+  -title: "corporate well-being"
+   url: "/workplacewellness"
+  -title: "Personal Counselling and CBT"
+   url: "/workplacewellness"
 
 
 - title: Blog
