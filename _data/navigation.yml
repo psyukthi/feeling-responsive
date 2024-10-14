@@ -14,6 +14,10 @@
   - title: "corporate well-being"
      url: "services/workplacewellness"
 
+- title: Info
+  url: "/info"
+  side: left
+
 
 - title: Blog
   url: "/blog/"
