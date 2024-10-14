@@ -11,9 +11,9 @@
   url: "/services/"
   side: left
   dropdown:
-  -title: "corporate well-being"
+  - title: "corporate well-being"
    url: "/workplacewellness"
-  -title: "Personal Counselling and CBT"
+  - title: "Personal Counselling and CBT"
    url: "/workplacewellness"
 
 
