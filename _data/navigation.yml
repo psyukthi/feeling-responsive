@@ -12,9 +12,9 @@
   side: left
   dropdown:
   - title: "corporate well-being"
-   url: "/workplacewellness"
+     url: "/workplacewellness"
   - title: "Personal Counselling and CBT"
-   url: "/workplacewellness"
+     url: "/workplacewellness"
 
 
 - title: Blog
