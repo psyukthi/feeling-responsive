@@ -12,7 +12,7 @@
   side: left
   dropdown:
   - title: "corporate well-being"
-     url: "/workplacewellness"
+     url: "services/workplacewellness"
 
 
 - title: Blog
