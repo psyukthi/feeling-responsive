@@ -10,9 +10,7 @@
 - title: Services
   url: "/services"
   side: left
-  dropdown:
-  - title: "corporate well-being"
-     url: "services/workplacewellness"
+
 
 - title: Blog
   url: "/blog/"
